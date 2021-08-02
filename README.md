@@ -1,4 +1,4 @@
-![Photograph of 'Chicago' by CTC, performed at Leys Great Hall.](https://expanseelectronics.com/files/images/ethernet.PNG)
+![Ethernet Node](https://expanseelectronics.com/files/images/ethernet.PNG)
 
 ### **About:**
 Dual-port ethernet Artnet nodes are somewhat expensive nowadays with simple [Pathport Duo's](https://stagedepot.co.uk/lighting/control-dimming/dmx-management/city-theatrical-pathport-c-series-node?sku=CT-P6202&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-JbNi8wZCGz_KHbozcLFQ_qSdAPo95IHTKV8BdgGUl6DZUhPz_-OCBoC5V8QAvD_BwE) setting theatres back around £750. 
