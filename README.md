@@ -1,3 +1,5 @@
+![Photograph of 'Chicago' by CTC, performed at Leys Great Hall.](https://expanseElectronics.com/files/images/ethernet.PNG "Photograph of 'Chicago' by CTC, performed at Leys Great Hall.")
+
 ### **About:**
 Dual-port ethernet Artnet nodes are somewhat expensive nowadays with simple [Pathport Duo's](https://stagedepot.co.uk/lighting/control-dimming/dmx-management/city-theatrical-pathport-c-series-node?sku=CT-P6202&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-JbNi8wZCGz_KHbozcLFQ_qSdAPo95IHTKV8BdgGUl6DZUhPz_-OCBoC5V8QAvD_BwE) setting theatres back around £750. 
 Based on our experience designing small-form-factor wireless DMX nodes, we took it upon ourselves to design a cheap and affordable wired ethernet node that would provide similar features to popular DMX nodes from established manufacturers such as ETC, City Theatrical and Chauvet DJ.  
