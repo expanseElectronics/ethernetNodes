@@ -15,7 +15,7 @@ Before selling on Tindie, I have used our DMX nodes in many productions. Most re
 
 (please note that our DMX nodes are based on [mtongnz's dmx and rdm](https://github.com/mtongnz) library)
 
-### Ethernet Node Specifications:
+### Specifications:
 Our ethernet node comes with two DMX ports. Port A can be configured as an input, or an output, with full support for Artnet V4 and up to 325packet/s. Port B is strictly an output, but can be configured to support sACN output.  
 
 All port are configured over the web interface, which is hosted at an automatically assigned IP address. (DCHP)
