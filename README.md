@@ -11,8 +11,7 @@ Before selling on Tindie, I have used our DMX nodes in many productions. Most re
 
 *Photograph of 'Chicago' by CTC, performed at Leys Great Hall.*
 
-*Our ethernet nodes reduces latency, provides USB-C programmability, allows for one DMX input, two RDM compatible outputs and optional PoE support. 
-*
+*Our ethernet nodes reduces latency, provides USB-C programmability, allows for one DMX input, two RDM compatible outputs and optional PoE support.*
 
 (please note that our DMX nodes are based on [mtongnz's dmx and rdm](https://github.com/mtongnz) library)
 
@@ -20,6 +19,7 @@ Before selling on Tindie, I have used our DMX nodes in many productions. Most re
 Our ethernet node comes with two DMX ports. Port A can be configured as an input, or an output, with full support for Artnet V4 and up to 325packet/s. Port B is strictly an output, but can be configured to support sACN output.  
 
 All port are configured over the web interface, which is hosted at an automatically assigned IP address. (DCHP)
+
 When first booting the device, it will attempt to configure DHCP, if it is unable to, it will host a Static IP at 10.0.0.1 which can be connected to via peer-to-peer or via a switch. Static address are then available to be configured from the IP address. The node will be able to listen and output / input ArtNet on the peer-to-peer network. 
 
 ![webinterface](https://user-images.githubusercontent.com/63847434/127889196-3878f0a8-2d72-41e2-a7bf-808ad1c5d497.JPG)
