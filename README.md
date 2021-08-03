@@ -23,6 +23,7 @@ All port are configured over the web interface, which is hosted at an automatica
 When first booting the device, it will attempt to configure DHCP, if it is unable to, it will host a Static IP at 10.0.0.1 which can be connected to via peer-to-peer or via a switch. Static address are then available to be configured from the IP address. The node will be able to listen and output / input ArtNet on the peer-to-peer network. 
 
 ![webinterface](https://user-images.githubusercontent.com/63847434/127889196-3878f0a8-2d72-41e2-a7bf-808ad1c5d497.JPG)
+
 *A screenshot of the default page on the web inteface.*
 
 Both ports on the device come with status LEDs which are pre-configured to be dim, and can be turned off via a firmware upload. The status LEDs show if the port is configured as an input, output, and wether it is receiving or transmitting data. 
