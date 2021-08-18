@@ -32,6 +32,7 @@ Both ports on the device come with status LEDs which are pre-configured to be di
 For our ethernet node, we have partnered with [Lincoln Binns](https://lincolnbinns.com/) and are using their E-Case C range, which allows a wide range of mounting hardware, and customization. 
 
 ![enter image description here](https://lincolnbinns.com/pub/media/catalog/product/cache/de11c78541e91402d501d037956c13c3/e/-/e-case_c_enclosure_kit_pic1.png)
+
 *An image of Lincoln Binns's E-Case.*
 
 On the outside of the case, are where both ports are located, along with a twinned A port for use as an input. There is also a USB-C connector for power and data transfer, along with the ethernet port and reset button. 
