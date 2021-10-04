@@ -5,6 +5,7 @@ Dual-port ethernet Artnet nodes are somewhat expensive nowadays with simple [Pat
 Based on our experience designing small-form-factor wireless DMX nodes, we took it upon ourselves to design a cheap and affordable wired ethernet node that would provide similar features to popular DMX nodes from established manufacturers such as ETC, City Theatrical and Chauvet DJ.  
 
 *Our ethernet nodes reduces latency, provides USB-C programmability, allows for one DMX input and two RDM compatible outputs .*
+
 You can purchase our nodes on our Tindie Store or by clicking [here](https://www.tindie.com/products/lonewalker/ethernet-artnet-dmx-node/).
 
 ### Specifications:
