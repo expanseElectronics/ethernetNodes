@@ -6,7 +6,7 @@ Based on our experience designing small-form-factor wireless DMX nodes, we took 
 
 *Our ethernet nodes reduces latency, provides USB-C programmability, allows for one DMX input and two RDM compatible outputs .*
 
-You can purchase our nodes on our Tindie Store or by clicking [here](https://www.tindie.com/products/lonewalker/ethernet-artnet-dmx-node/).
+You can purchase our nodes on our website or by clicking [here](https:/expanseelectronics.com/).
 
 ### Specifications:
 Our ethernet node comes with two DMX ports. Port A can be configured as an input, or an output, with full support for Artnet V4 and up to 325packet/s. Port B is strictly an output but can be configured to support sACN.  
