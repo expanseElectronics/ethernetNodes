@@ -24,3 +24,6 @@ Both ports on the device come with status LEDs which are pre-configured to be di
 ### Enclousre:
 We have partnered with [Lincoln Binns](https://lincolnbinns.com/) and are using their E-Case C range, which allows a wide range of mounting hardware and customization. 
 Both ports are located on the outside of the case, along with a twinned A port for use as an input. There is also a USB-C connector for power and data transfer, including the ethernet port and reset button.
+
+### Credits:
+A lot of this project is forked from Matt's ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels project found [here](https://github.com/mtongnz/ESP8266_ArtNetNode_v2). We thank Matt as a team for creating his amazing project with all it's features. 
