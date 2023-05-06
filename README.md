@@ -1,4 +1,4 @@
-![ethernet](https://user-images.githubusercontent.com/63847434/127887093-1f3dc97f-a095-4233-8183-4786d8f3eddc.png)
+![ethernet](https://expanseelectronics.com/images/IMG_20211019_124949.jpg)
 
 ### **About:**
 Dual-port ethernet Artnet nodes are somewhat expensive nowadays with simple [Pathport Duo's](https://stagedepot.co.uk/lighting/control-dimming/dmx-management/city-theatrical-pathport-c-series-node?sku=CT-P6202&gclid=CjwKCAjwuvmHBhAxEiwAWAYj-JbNi8wZCGz_KHbozcLFQ_qSdAPo95IHTKV8BdgGUl6DZUhPz_-OCBoC5V8QAvD_BwE) setting theatres back around £750. 
